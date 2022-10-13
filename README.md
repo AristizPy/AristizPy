@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AristizPy
-- 👀 I’m interested in Python, Music, Chess, Game Development, Books
-- 🌱 I’m currently learning Pygame, Refining Python skills, looking forward to learn several other modules
+- 👀 I’m interested in Python, Music, Chess, Game and Web Development, Books
+- 🌱 I’m currently learning Flask, Refining Python skills, looking forward to learn several other modules
 - 🗿 I'm looking forward to up my Python game by learning advance Python skills
 - 👨🏻‍💻 IDE's and Text Editors used by me- VS Code, Sublime and PyCharm
 
